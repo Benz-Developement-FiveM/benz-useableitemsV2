@@ -20,3 +20,8 @@ STEP 3
 copy the contents from qb-smallresources/config
 paste the contents into your qb-smallrecources/config ((around line 91)(ends around line 134))
 CREDITS: (Combined some items from these great creators) mk-items: https://github.com/McKleans-Scripts/mk-items
+
+
+TO-DO:
+add rest of images to items in qb-core/shared/items.lua
+add edible food/drinks/alcahol to qb-smallresources/config.lua
