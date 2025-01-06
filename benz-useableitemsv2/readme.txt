@@ -5,6 +5,8 @@ Edible items for qb-core. Makes it so you have more items in your server.
 
 Including foo/drinks/alcahol, hunting, hacking, usbs, ids, memberships, mechanic, illegal, materials, drugs, etc 
 
+all food/drink/alcahol itema are useable
+
 REQUIREMENTS:
 
 latest qb-core build
