@@ -4,6 +4,7 @@
 
 ----------------------------------------------------------------------------------------------
 Edible items for qb-core/ox_inventory. Makes it so you have more items in your server. Including food, drinks, alcahol, hunting, hacking, usbs, ids, memberships, mechanic, illegal, materials, drugs, etc
+
 ----------------------------------------------------------------------------------------------
 REQUIREMENTS:
 
