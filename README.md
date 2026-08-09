@@ -20,7 +20,7 @@ copy the items from qb-core/items.lua or if on qbox then ox_invetory/items.lua (
 
 paste the items into your qb-core/shared/items.lua or ox_inventory/data/items.lua (at the bottom)
 
-STEP 3
+STEP 3\n/
 copy the contents from qb-smallresources/config
 
 paste the contents into your qb-smallrecources/config ((around line 91)(ends around line 134))
